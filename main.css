@@ -1,8 +1,8 @@
 .container{
   border: 5px solid red;
+  
 
 }
-
 
 .box{
   padding: 30px;
@@ -28,4 +28,13 @@
 
 .box-5{
   background:#51CB20;
+}
+
+
+.generic{
+  background: #202C59;
+  text-align:center;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
 }
